@@ -12,7 +12,7 @@ while still retaining our legacy of technologies such as C and BASIC.
 #### Technologies/Tools I use:
 ![Unity](https://img.shields.io/static/v1?label=Unity&message=2020.1.13f1&color=000&style=for-the-badge&logo=unity)
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.51&style=for-the-badge&color=005ba4&logo=visual-studio-code)
-![NodeJS](https://img.shields.io/static/v1?label=Node.JS&message=Latest&style=for-the-badge&color=6a9f65&logo=node-js)
+![NodeJS](https://img.shields.io/static/v1?label=Node.JS&message=Latest&style=for-the-badge&color=339933&logo=node.js)
 
 #### Some Interesting Stats:
 <table>
