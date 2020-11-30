@@ -10,7 +10,7 @@ while still retaining our legacy of technologies such as C and BASIC.
 ![Scratch](https://img.shields.io/static/v1?label=Scratch&message=3&color=4D97FF&style=for-the-badge&logo=Scratch)
 
 #### Technologies/Tools I use:
-![Github](https://img.shields.io/static/v1?label=GitHub&message=quantumlytangled&color=181717&style=for-the-badge&logo=github)
+![Github](https://img.shields.io/static/v1?label=GitHub&message=Devnol&color=181717&style=for-the-badge&logo=github)
 ![Unity](https://img.shields.io/static/v1?label=Unity&message=2020.1.13f1&color=000&style=for-the-badge&logo=Unity)
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.51&style=for-the-badge&color=007ACC&logo=Visual-Studio-Code)
 ![Sublime Text 3](https://img.shields.io/static/v1?label=Sublime%20Text%203&message=3211&style=for-the-badge&color=FF9800&logo=Sublime-Text)
