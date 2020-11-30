@@ -31,4 +31,4 @@ while still retaining our legacy of technologies such as C and BASIC.
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devnol&bg_color=40,9E1476,FB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4"/></td>
   </tr>
 </table>
- Note: I don't know C++, GitHub interprets Arduino source code as such.
+ Note: I don't know actual C++, only Arduino-flavoured.
