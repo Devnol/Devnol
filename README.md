@@ -6,19 +6,29 @@ while still retaining our legacy of technologies such as C and BASIC.
 
 #### Languages I know:
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=Latest&style=for-the-badge&color=F7DF1E&logo=JavaScript)
-![Arduino-flavoured C](https://img.shields.io/static/v1?label=Arduino&message=Kinda%20C&style=for-the-badge&color=00868c&logo=Arduino)
-![Scratch](https://img.shields.io/static/v1?label=Scratch&message=3&color=f39929&style=for-the-badge&logo=scratch)
+![Arduino-flavoured C](https://img.shields.io/static/v1?label=Arduino&message=Kinda%20C&style=for-the-badge&color=00979D&logo=Arduino)
+![Scratch](https://img.shields.io/static/v1?label=Scratch&message=3&color=4D97FF&style=for-the-badge&logo=Scratch)
 
 #### Technologies/Tools I use:
-![Unity](https://img.shields.io/static/v1?label=Unity&message=2020.1.13f1&color=000&style=for-the-badge&logo=unity)
-![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.51&style=for-the-badge&color=005ba4&logo=visual-studio-code)
+![Unity](https://img.shields.io/static/v1?label=Unity&message=2020.1.13f1&color=000&style=for-the-badge&logo=Unity)
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.51&style=for-the-badge&color=007ACC&logo=Visual-Studio-Code)
+![Sublime Text 3](https://img.shields.io/static/v1?label=Sublime%20Text%203&message=3211&style=for-the-badge&color=FF9800&logo=Sublime-Text)
 ![NodeJS](https://img.shields.io/static/v1?label=Node.JS&message=Latest&style=for-the-badge&color=339933&logo=node.js)
+![Raspberry Pi](https://img.shields.io/static/v1?label=Raspberry%20Pi&message=Model%204B%204GB&style=for-the-badge&color=C51A4A&logo=Raspberry-Pi)
+![openSUSE](https://img.shields.io/static/v1?label=openSUSE&message=Tumbleweed&style=for-the-badge&color=73BA25&logo=openSUSE)
+![macOS](https://img.shields.io/static/v1?label=macOS&message=Big%20Sur%2011.0.1&style=for-the-badge&color=999999&logo=Apple)
+![Windows 10](https://img.shields.io/static/v1?label=Windows%2010&message=20H1&style=for-the-badge&color=0078D6&logo=Windows)
+
+#### My Social Media
+<a href="https://discord.com/" alt="Discord"><img src="https://img.shields.io/static/v1?label=Discord&message=@Devnol%239366&color=7289DA&logo=Discord" /></a>
+<a href="https://twitter.com/Commandblock641" alt="Twitter"><img src="https://img.shields.io/static/v1?label=Twitter&message=@Commandblock641&color=1DA1F2&logo=Twitter" /></a>
+<a href="https://telegram.me/Devnol" alt="Telegram"><img src="https://img.shields.io/static/v1?label=Telegram&message=@Devnol&color=2CA5E0&logo=Telegram" /></a>
 
 #### Some Interesting Stats:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Devnol&bg_color=40,9e1476,fb4244&title_color=f4f4f4&text_color=f4f4f4&show_icons=true&icon_color=f4f4f4"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devnol&bg_color=40,9e1476,fb4244&title_color=f4f4f4&text_color=f4f4f4&show_icons=true&icon_color=f4f4f4"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Devnol&bg_color=40,9E1476,fB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devnol&bg_color=40,9E1476,FB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4"/></td>
   </tr>
 </table>
  Note: I don't know C++, GitHub interprets Arduino source code as such.
