@@ -10,6 +10,7 @@ while still retaining our legacy of technologies such as C and BASIC.
 ![Scratch](https://img.shields.io/static/v1?label=Scratch&message=3&color=4D97FF&style=for-the-badge&logo=Scratch)
 
 #### Technologies/Tools I use:
+![Github](https://img.shields.io/static/v1?label=GitHub&message=quantumlytangled&color=181717&style=for-the-badge&logo=github)
 ![Unity](https://img.shields.io/static/v1?label=Unity&message=2020.1.13f1&color=000&style=for-the-badge&logo=Unity)
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.51&style=for-the-badge&color=007ACC&logo=Visual-Studio-Code)
 ![Sublime Text 3](https://img.shields.io/static/v1?label=Sublime%20Text%203&message=3211&style=for-the-badge&color=FF9800&logo=Sublime-Text)
@@ -27,8 +28,8 @@ while still retaining our legacy of technologies such as C and BASIC.
 #### Some Interesting Stats:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Devnol&bg_color=40,9E1476,fB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devnol&bg_color=40,9E1476,FB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Devnol&bg_color=40,9E1476,fB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devnol&bg_color=40,9E1476,FB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4&extra=Cytrus-RE/cytrus-re,cytrus-re.github.io,debia;terrific-tea/terrific-tea.github.io;" /></td>
   </tr>
 </table>
  Note: I don't know actual C++, only Arduino-flavoured.
