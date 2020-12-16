@@ -22,7 +22,7 @@ while still retaining our legacy of technologies such as C and BASIC.
 
 #### My Social Media
 <a href="https://discord.com/" alt="Discord"><img src="https://img.shields.io/static/v1?label=Discord&message=@Devnol%239366&color=7289DA&logo=Discord" /></a>
-<a href="https://twitter.com/Commandblock641" alt="Twitter"><img src="https://img.shields.io/static/v1?label=Twitter&message=@Commandblock641&color=1DA1F2&logo=Twitter" /></a>
+<a href="https://twitter.com/PanosDevnol" alt="Twitter"><img src="https://img.shields.io/static/v1?label=Twitter&message=@Commandblock641&color=1DA1F2&logo=Twitter" /></a>
 <a href="https://telegram.me/Devnol" alt="Telegram"><img src="https://img.shields.io/static/v1?label=Telegram&message=@Devnol&color=2CA5E0&logo=Telegram" /></a>
 
 #### Some Interesting Stats:
