@@ -17,8 +17,8 @@ while still retaining our legacy of technologies such as C and BASIC.
 ![NodeJS](https://img.shields.io/static/v1?label=Node.JS&message=Latest&style=for-the-badge&color=339933&logo=node.js)
 ![Raspberry Pi](https://img.shields.io/static/v1?label=Raspberry%20Pi&message=Model%204B%204GB&style=for-the-badge&color=C51A4A&logo=Raspberry-Pi)
 ![openSUSE](https://img.shields.io/static/v1?label=openSUSE&message=Tumbleweed&style=for-the-badge&color=73BA25&logo=openSUSE)
-![macOS](https://img.shields.io/static/v1?label=macOS&message=Big%20Sur%2011.1&style=for-the-badge&color=999999&logo=Apple)
-![Windows 10](https://img.shields.io/static/v1?label=Windows%2010&message=20H2&style=for-the-badge&color=0078D6&logo=Windows)
+![macOS](https://img.shields.io/static/v1?label=macOS&message=Latest&style=for-the-badge&color=999999&logo=Apple)
+![Windows 10](https://img.shields.io/static/v1?label=Windows%2010&message=Stable%20(haha%20no)&style=for-the-badge&color=0078D6&logo=Windows)
 
 #### My Social Media
 <a href="https://discord.com/" alt="Discord"><img src="https://img.shields.io/static/v1?label=Discord&message=@Devnol%239366&color=7289DA&logo=Discord" /></a>
@@ -26,9 +26,7 @@ while still retaining our legacy of technologies such as C and BASIC.
 <a href="https://telegram.me/Devnol" alt="Telegram"><img src="https://img.shields.io/static/v1?label=Telegram&message=@Devnol&color=2CA5E0&logo=Telegram" /></a>
 
 #### Some Interesting Stats:
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Devnol&bg_color=40,9E1476,fB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devnol&bg_color=40,9E1476,FB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4&extra=Cytrus-RE/cytrus-re,cytrus-re.github.io,debia;terrific-tea/terrific-tea.github.io;" /></td>
-  </tr>
-</table>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Devnol&bg_color=40,9E1476,fB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devnol&bg_color=40,9E1476,FB4244&title_color=F4F4F4&text_color=F4F4F4&show_icons=true&icon_color=F4F4F4&extra=Cytrus-RE/cytrus-re,cytrus-re.github.io,debia;terrific-tea/terrific-tea.github.io;"/>
+</div>
