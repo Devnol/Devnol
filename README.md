@@ -11,8 +11,8 @@ while still retaining our legacy of technologies such as C and BASIC.
 
 #### Technologies/Tools I use:
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=Devnol&color=181717&style=for-the-badge&logo=github)
-![Unity](https://img.shields.io/static/v1?label=Unity&message=2020.1.13f1&color=000&style=for-the-badge&logo=Unity)
-![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.52.1&style=for-the-badge&color=007ACC&logo=Visual-Studio-Code)
+![Unity](https://img.shields.io/static/v1?label=Unity&message=Latest&color=000&style=for-the-badge&logo=Unity)
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=Stable&style=for-the-badge&color=007ACC&logo=Visual-Studio-Code)
 ![Sublime Text 3](https://img.shields.io/static/v1?label=Sublime%20Text%203&message=3211&style=for-the-badge&color=FF9800&logo=Sublime-Text)
 ![NodeJS](https://img.shields.io/static/v1?label=Node.JS&message=Latest&style=for-the-badge&color=339933&logo=node.js)
 ![Raspberry Pi](https://img.shields.io/static/v1?label=Raspberry%20Pi&message=Model%204B%204GB&style=for-the-badge&color=C51A4A&logo=Raspberry-Pi)
