@@ -2,7 +2,7 @@
 
 I am a middle school student from Greece who likes Computer Science and Electrical Engineering.
 I like coding in JS, making games in C# and Unity and learning about new ways to make transistors do cool stuff,
-while still retaining our legacy of technologies such as C and BASIC. 
+though I get just as fascinated with old stuff, such as 8-bit computers and languages like Assembly
 
 #### Languages I know:
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=Latest&style=for-the-badge&color=F7DF1E&logo=JavaScript)
