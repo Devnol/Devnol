@@ -7,7 +7,6 @@ though I get just as fascinated with old stuff, such as 8-bit computers and lang
 #### Languages I know:
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=Latest&style=for-the-badge&color=F7DF1E&logo=JavaScript)
 ![Arduino-flavoured C](https://img.shields.io/static/v1?label=Arduino&message=Kinda%20C&style=for-the-badge&color=00979D&logo=Arduino)
-![Scratch](https://img.shields.io/static/v1?label=Scratch&message=3&color=4D97FF&style=for-the-badge&logo=Scratch)
 
 #### Technologies/Tools I use:
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=Devnol&color=181717&style=for-the-badge&logo=github)
@@ -16,7 +15,6 @@ though I get just as fascinated with old stuff, such as 8-bit computers and lang
 ![Sublime Text 3](https://img.shields.io/static/v1?label=Sublime%20Text%203&message=3211&style=for-the-badge&color=FF9800&logo=Sublime-Text)
 ![NodeJS](https://img.shields.io/static/v1?label=Node.JS&message=Latest&style=for-the-badge&color=339933&logo=node.js)
 ![Raspberry Pi](https://img.shields.io/static/v1?label=Raspberry%20Pi&message=Model%204B%204GB&style=for-the-badge&color=C51A4A&logo=Raspberry-Pi)
-![openSUSE](https://img.shields.io/static/v1?label=openSUSE&message=Tumbleweed&style=for-the-badge&color=73BA25&logo=openSUSE)
 ![macOS](https://img.shields.io/static/v1?label=macOS&message=Latest&style=for-the-badge&color=999999&logo=Apple)
 ![Windows 10](https://img.shields.io/static/v1?label=Windows%2010&message=Stable%20(haha%20no)&style=for-the-badge&color=0078D6&logo=Windows)
 
