@@ -4,7 +4,7 @@ I am a middle school student from Greece who likes Computer Science and Electric
 I like coding in JS, making games in C# and Unity and learning about new ways to make transistors do cool stuff,
 though I get just as fascinated with old stuff, such as 8-bit computers and languages like Assembly
 
-You can read more about me and find social links at [my website](devnol.github.io).
+You can read more about me and find social links at [my website](http://devnol.github.io).
 
 #### Some Interesting Stats:
 <div>
